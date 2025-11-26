@@ -1,12 +1,14 @@
 ## ASCII Art Filter
 Real-time ASCII Art Filter
 
+<br>
+
 ## Usage
 Drag to specify the area to apply the ASCII art filter
 
 <br>
 
-Enter keyboard
+<b> Enter keyboard </b>
 
 ' [ ' Reduce Window Size
 
